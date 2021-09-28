@@ -1,0 +1,1 @@
+gsap.fromTo("#black-parts", { fill: 'red' }, { fill: "black", duration: 4 }, 1)
